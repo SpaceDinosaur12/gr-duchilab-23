@@ -642,7 +642,7 @@ blocks:
     affinity: ''
     alias: ''
     comment: ''
-    length_modulo: '2'
+    length_modulo: '1'
     mask: '0xFF'
     maxoutbuf: '0'
     maxsize: '1'
